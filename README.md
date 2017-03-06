@@ -1,13 +1,9 @@
 # HealthyBeginnings
 Sitio Web + Sistema de Blog
 
-# Healthy Beginnings #
-
-Sitio Web + Sistema de Blog
-
 ### Cosas por hacer ###
 
-* Maquetación de la HomePage (Pendiente diseño).
+* Maquetación, diseño y funcionalidad Header + Footer.
 
 ### Cosas listas ###
 
